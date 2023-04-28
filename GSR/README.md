@@ -1,4 +1,4 @@
-#Bolognese: Clitic Allomorphy with Gradient Symbolic Representations
+# Bolognese: Clitic Allomorphy with Gradient Symbolic Representations
 Files for analysis of Bolognese clitic allomorphy using GSRs
 
 Here you can find R files for Rubin & Kaplan (2023), a presentation at WCCFL 41. The files included are:
