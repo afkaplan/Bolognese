@@ -1,7 +1,7 @@
 # Bolognese: Clitic Allomorphy in Lexical Selection
 Files for analysis of Bolognese clitic allomorphy using Lexical Selection
 
-Here you can find OTSoft files Rubin & Kaplan (2022), a presentation at AMP 2022. The files included are:
+Here you can find OTSoft files for Rubin & Kaplan (2022), a presentation at AMP 2022. The files included are:
 
 1. 2Priorities_reduced_OTSoft.xlsx: the analysis of clitic allomorphy that adopts multiple Priorties.
 2. CategoricalPriority_reduced_OTSoft.xlsx: the analysis of clitic allomorphy that adopts a single categorical Priority.
