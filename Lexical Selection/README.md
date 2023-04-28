@@ -1,4 +1,4 @@
-# Bolognese
+# Bolognese: Clitic Allomorphy in Lexical Selection
 Files for analysis of Bolognese clitic allomorphy
 
 Here you can find OTSoft files Rubin & Kaplan (2022), a presentation at AMP 2022. The files included are:
